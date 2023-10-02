@@ -1,0 +1,5 @@
+TestcontainersForDotNetAndDocker/bin
+TestcontainersForDotNetAndDocker/obj
+
+TestcontainersForDotNetAndDocker.Tests/bin
+TestcontainersForDotNetAndDocker.Tests/obj
